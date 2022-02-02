@@ -1,2 +1,2 @@
 # analytics-widget
-Analytics widget that let you attach the events in DOM
+Analytics widget that let you attach events in DOM
